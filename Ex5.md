@@ -1,6 +1,6 @@
 # Ex.No:5
 # Ex.Name: Write a C++ program to find the minimum of two and three numbers using construction overloading, pass values during compile time.
-## Date:
+
 ## Aim:
 To write a C++ program that finds the minimum of two and three numbers using constructor overloading, where values are passed during compile time.
 
