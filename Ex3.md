@@ -1,5 +1,6 @@
 # Ex.No:3
 # Ex.Name: Write a C++ program to convert Celsius into Fahrenheit using inline function  
+## Date:07/08/25
 
 ## Aim:
 To write a C++ program that converts a temperature from Celsius to Fahrenheit using an inline function.
