@@ -1,6 +1,6 @@
 # Ex.No:1
 # Ex.Name: Write a C++ program to find the sum of GP series using friend function. formula:  Sn = a(rn - 1) / (r - 1)
-## Date:
+## Date:07/08/25
 ## Aim:To write a C++ program that calculates the sum of a Geometric Progression (GP) series using a friend function, based on the formula
 
 ### Algorithm:
